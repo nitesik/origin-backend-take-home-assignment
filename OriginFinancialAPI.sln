@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OriginFinancialAPI", "OriginFinancialAPI\OriginFinancialAPI.csproj", "{DE058097-0018-4487-8D78-014431D2F55B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE058097-0018-4487-8D78-014431D2F55B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE058097-0018-4487-8D78-014431D2F55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE058097-0018-4487-8D78-014431D2F55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE058097-0018-4487-8D78-014431D2F55B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
